@@ -45,7 +45,7 @@ The dataset contains hotel booking information including:
 - Predictive modeling for cancellations
 
 ## Author
-[Your Name]
+[Pritidarshini Biswal]
 
 ## License
 This project is licensed under the MIT License.
